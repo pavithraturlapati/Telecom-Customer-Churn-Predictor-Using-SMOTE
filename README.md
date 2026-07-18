@@ -41,6 +41,3 @@ then lets you explore:
 | ⚖️ **Imbalanced Data** | The "always predict No Churn" accuracy trap, before/after SMOTE comparison |
 | 🎯 **Threshold Tuning** | Interactive slider — watch precision/recall/F1 shift live, precision-recall curve, confusion matrix |
 | 🔮 **Predict Churn** | Fill out a form describing a customer → get a churn probability and recommendation |
-
-column names match what `engineer_features()` and `preprocess()` expect
-(see `app.py`), or adjust those functions accordingly.
