@@ -42,6 +42,5 @@ then lets you explore:
 | 🎯 **Threshold Tuning** | Interactive slider — watch precision/recall/F1 shift live, precision-recall curve, confusion matrix |
 | 🔮 **Predict Churn** | Fill out a form describing a customer → get a churn probability and recommendation |
 
-Yes, via [Option B](#option-b--provide-your-own-csv) — just make sure the
 column names match what `engineer_features()` and `preprocess()` expect
 (see `app.py`), or adjust those functions accordingly.
